@@ -1,0 +1,99 @@
+order_id,order_date,customer,region,category,product,quantity,unit_price,reason
+ORD-11109,2025-06-07,Ironclad Fitness,SC,Electronics,USB-C Dock,-10.0,94.75,negative quantity (possible return) - needs human review
+ORD-11268,2025-09-16,Nansemond Nursery,SC,Food & Beverage,Coffee 5lb Bag,-3.0,48.29,negative quantity (possible return) - needs human review
+ORD-13063,2025-05-20,Tidewater Roofing,MD,Safety Equipment,Safety Vest 10-Pack,,52.87,unparseable quantity
+ORD-13638,2026-05-04,Driftwood Decor,MD,Electronics,USB-C Dock,-2.0,89.68,negative quantity (possible return) - needs human review
+,2026-02-28,Jetty Joes Tackle,DC,Electronics,Wireless Mouse,-3.0,24.38,negative quantity (possible return) - needs human review
+ORD-13863,2025-04-05,Zenith HVAC,,Safety Equipment,Wet Floor Signs,-1.0,20.87,negative quantity (possible return) - needs human review
+ORD-11973,,Beacon Bookkeeping,NC,Furniture,File Cabinet,1.0,103.81,unparseable or missing date
+ORD-11278,,Uptown Barbers,VA,Cleaning,Hand Soap Case,1.0,28.45,unparseable or missing date
+ORD-10635,,Foxtail Florist,DC,Food & Beverage,Tea Sampler,2.0,20.56,unparseable or missing date
+ORD-11334,,Salem Lanes Bowling,VA,Food & Beverage,Water Cooler Jug,5.0,13.09,unparseable or missing date
+ORD-13791,2026-05-17,Harbor Light Church,SC,Furniture,File Cabinet,-10.0,98.24,negative quantity (possible return) - needs human review
+ORD-13119,,Harbor Light Church,,Food & Beverage,Water Cooler Jug,8.0,12.65,unparseable or missing date
+ORD-13805,2025-12-07,Gull Point Marina,SC,Cleaning,Trash Liners Box,-2.0,22.94,negative quantity (possible return) - needs human review
+ORD-14349,,Redwing Auto Parts,MD,Electronics,Label Printer,5.0,143.37,unparseable or missing date
+ORD-10067,2025-09-04,Chesapeake Motors,VA,Electronics,Wireless Mouse,-2.0,24.34,negative quantity (possible return) - needs human review
+ORD-12396,,Gull Point Marina,VA,Office Supplies,Stapler Set,5.0,19.0,unparseable or missing date
+ORD-13052,,Driftwood Decor,DC,Furniture,Standing Desk,10.0,399.58,unparseable or missing date
+ORD-14647,,Hilltop Hardware,,Cleaning,Hand Soap Case,8.0,30.85,unparseable or missing date
+ORD-10786,2025-01-12,Atlantic Supply,DC,Cleaning,Mop Kit,-1.0,38.17,negative quantity (possible return) - needs human review
+ORD-11175,2025-09-22,Uptown Barbers,DC,Safety Equipment,Wet Floor Signs,,20.68,unparseable quantity
+ORD-13453,,Salem Lanes Bowling,SC,Furniture,Bookshelf,4.0,113.87,unparseable or missing date
+ORD-14324,,Kempsville Karate,SC,Food & Beverage,Snack Variety Box,10.0,36.92,unparseable or missing date
+ORD-12045,,Oceanfront Surf Shop,SC,Furniture,Task Chair,10.0,172.28,unparseable or missing date
+ORD-11886,,Lighthouse Daycare,DC,Electronics,USB-C Dock,8.0,92.18,unparseable or missing date
+ORD-13006,2025-12-24,Cardinal Pest Control,MD,Electronics,USB-C Dock,,90.19,unparseable quantity
+ORD-14095,,Dominion Cafe,SC,Electronics,Label Printer,1.0,142.3,unparseable or missing date
+ORD-13364,,Harbor Light Church,SC,Electronics,USB-C Dock,2.0,84.86,unparseable or missing date
+ORD-14602,,Beacon Bookkeeping,MD,Safety Equipment,Wet Floor Signs,5.0,21.25,unparseable or missing date
+ORD-11472,2025-08-21,Eastline Logistics,MD,Food & Beverage,Coffee 5lb Bag,-1.0,49.06,negative quantity (possible return) - needs human review
+ORD-11482,2025-08-19,Gull Point Marina,DC,Safety Equipment,Fire Extinguisher,-4.0,65.56,negative quantity (possible return) - needs human review
+ORD-13782,,Inlet Ice Cream,NC,Cleaning,Hand Soap Case,8.0,30.68,unparseable or missing date
+ORD-13835,,Landstown Pediatrics,VA,Cleaning,Disinfectant 4-Pack,5.0,28.55,unparseable or missing date
+ORD-12696,2026-05-12,Dominion Cafe,VA,Safety Equipment,First Aid Kit,,47.23,unparseable quantity
+ORD-13070,2025-04-11,Salem Lanes Bowling,NC,Cleaning,Trash Liners Box,-5.0,23.56,negative quantity (possible return) - needs human review
+ORD-11673,,Bayview Dental,VA,Cleaning,Disinfectant 4-Pack,2.0,28.3,unparseable or missing date
+ORD-13310,2026-02-04,Beacon Bookkeeping,SC,Food & Beverage,Water Cooler Jug,-1.0,12.38,negative quantity (possible return) - needs human review
+ORD-12836,2026-01-26,Kempsville Karate,VA,Cleaning,Mop Kit,,35.96,unparseable quantity
+ORD-10467,2025-08-13,Lighthouse Daycare,SC,Cleaning,Trash Liners Box,-2.0,23.04,negative quantity (possible return) - needs human review
+ORD-10413,,Marlin Print Shop,VA,Furniture,Task Chair,2.0,169.43,unparseable or missing date
+ORD-10541,,Ironclad Fitness,NC,Cleaning,Trash Liners Box,2.0,24.1,unparseable or missing date
+ORD-12188,2026-05-05,Mount Trashmore Mini Golf,SC,Furniture,Bookshelf,-10.0,110.45,negative quantity (possible return) - needs human review
+ORD-12109,,Kettle Crumb Bakery,DC,Office Supplies,Whiteboard,3.0,67.06,unparseable or missing date
+ORD-12528,,James River Tours,DC,Furniture,File Cabinet,1.0,96.39,unparseable or missing date
+ORD-12663,,Driftwood Decor,NC,Safety Equipment,Fire Extinguisher,1.0,66.28,unparseable or missing date
+ORD-11535,,Nansemond Nursery,NC,Electronics,Label Printer,2.0,129.17,unparseable or missing date
+ORD-10936,2025-10-11,Gull Point Marina,NC,Electronics,27in Monitor,,218.22,unparseable quantity
+ORD-13018,2025-06-09,James River Tours,DC,Electronics,Label Printer,,139.14,unparseable quantity
+ORD-14947,2026-05-04,Salem Lanes Bowling,VA,Food & Beverage,Snack Variety Box,-1.0,36.5,negative quantity (possible return) - needs human review
+ORD-10768,,Chesapeake Motors,SC,Office Supplies,Copy Paper Case,1.0,40.41,unparseable or missing date
+ORD-10580,2026-04-21,Ironclad Fitness,VA,Furniture,Standing Desk,,400.68,unparseable quantity
+ORD-13190,,Cardinal Pest Control,NC,Electronics,Wireless Mouse,4.0,26.29,unparseable or missing date
+ORD-13822,,Beacon Bookkeeping,VA,Furniture,Bookshelf,1.0,111.08,unparseable or missing date
+ORD-10916,,Osprey Optics,SC,Safety Equipment,Safety Vest 10-Pack,8.0,51.03,unparseable or missing date
+ORD-13396,2026-01-19,James River Tours,MD,Electronics,Label Printer,-3.0,138.76,negative quantity (possible return) - needs human review
+ORD-12254,,Wavecrest Hotel,NC,Cleaning,Disinfectant 4-Pack,3.0,26.45,unparseable or missing date
+ORD-11191,,Chesapeake Motors,MD,Cleaning,Trash Liners Box,3.0,24.58,unparseable or missing date
+ORD-13217,2025-01-09,Nansemond Nursery,DC,Cleaning,Disinfectant 4-Pack,-1.0,29.08,negative quantity (possible return) - needs human review
+ORD-14411,2025-02-02,Osprey Optics,VA,Food & Beverage,Snack Variety Box,,38.64,unparseable quantity
+ORD-11232,2025-03-16,Xpress Couriers,VA,Cleaning,Mop Kit,-2.0,39.09,negative quantity (possible return) - needs human review
+ORD-10360,2025-09-08,Kettle Crumb Bakery,DC,Safety Equipment,First Aid Kit,-5.0,48.3,negative quantity (possible return) - needs human review
+ORD-12800,,First Colony Realty,SC,Cleaning,Trash Liners Box,1.0,22.49,unparseable or missing date
+ORD-12982,2025-12-21,Dominion Cafe,SC,Electronics,USB-C Dock,-2.0,86.38,negative quantity (possible return) - needs human review
+ORD-10040,,Foxtail Florist,NC,Electronics,Wireless Mouse,1.0,24.86,unparseable or missing date
+ORD-14717,2026-01-15,Foxtail Florist,DC,Electronics,Label Printer,,139.43,unparseable quantity
+ORD-12890,,Landstown Pediatrics,DC,Cleaning,Hand Soap Case,1.0,28.94,unparseable or missing date
+ORD-13115,,Hilltop Hardware,MD,Office Supplies,Whiteboard,10.0,62.39,unparseable or missing date
+ORD-13072,2025-06-25,Harbor Light Church,NC,Food & Beverage,Snack Variety Box,-10.0,37.27,negative quantity (possible return) - needs human review
+ORD-11508,,Hilltop Hardware,MD,Furniture,Task Chair,1.0,156.12,unparseable or missing date
+ORD-10881,2025-10-14,Virginia Beach Vets,DC,Cleaning,Trash Liners Box,-1.0,22.44,negative quantity (possible return) - needs human review
+ORD-14992,,Osprey Optics,MD,Electronics,27in Monitor,5.0,219.61,unparseable or missing date
+ORD-10159,,Oceanfront Surf Shop,MD,Cleaning,Mop Kit,3.0,39.71,unparseable or missing date
+ORD-14461,2025-05-28,Marlin Print Shop,MD,Cleaning,Disinfectant 4-Pack,,28.1,unparseable quantity
+ORD-11101,2025-07-29,Dominion Cafe,,Office Supplies,Ink Cartridge,-1.0,32.35,negative quantity (possible return) - needs human review
+ORD-11269,2025-10-12,Wavecrest Hotel,VA,Safety Equipment,Wet Floor Signs,-4.0,19.84,negative quantity (possible return) - needs human review
+ORD-14272,2025-09-01,Inlet Ice Cream,VA,Electronics,27in Monitor,,235.34,unparseable quantity
+ORD-13787,2026-05-19,Osprey Optics,MD,Safety Equipment,Fire Extinguisher,-1.0,67.38,negative quantity (possible return) - needs human review
+ORD-11623,,Harbor Light Church,MD,Furniture,File Cabinet,1.0,102.24,unparseable or missing date
+ORD-10872,2026-01-06,Nansemond Nursery,DC,Electronics,Wireless Mouse,-1.0,23.82,negative quantity (possible return) - needs human review
+ORD-11733,2025-07-24,Yorktown Catering,NC,Electronics,Label Printer,-1.0,142.33,negative quantity (possible return) - needs human review
+ORD-14174,2025-07-21,Harbor Light Church,NC,Food & Beverage,Snack Variety Box,-2.0,35.36,negative quantity (possible return) - needs human review
+ORD-11402,,Tidewater Roofing,SC,Safety Equipment,Safety Vest 10-Pack,10.0,52.13,unparseable or missing date
+ORD-12922,2025-08-23,Redwing Auto Parts,SC,Electronics,Label Printer,-1.0,130.76,negative quantity (possible return) - needs human review
+ORD-14953,,Driftwood Decor,NC,Office Supplies,Ink Cartridge,3.0,32.16,unparseable or missing date
+ORD-14831,,Zenith HVAC,NC,Office Supplies,Stapler Set,1.0,17.83,unparseable or missing date
+ORD-12584,,Eastline Logistics,MD,Furniture,Task Chair,1.0,158.91,unparseable or missing date
+ORD-14760,,Kempsville Karate,MD,Furniture,Task Chair,1.0,161.12,unparseable or missing date
+ORD-14351,,Wavecrest Hotel,MD,Office Supplies,Whiteboard,1.0,65.53,unparseable or missing date
+ORD-14805,2025-01-15,Kettle Crumb Bakery,VA,Cleaning,Disinfectant 4-Pack,-2.0,26.6,negative quantity (possible return) - needs human review
+ORD-10625,,Beacon Bookkeeping,DC,Safety Equipment,First Aid Kit,1.0,45.82,unparseable or missing date
+ORD-11407,,Salem Lanes Bowling,VA,Safety Equipment,Wet Floor Signs,2.0,19.44,unparseable or missing date
+ORD-11488,2025-06-14,Lighthouse Daycare,DC,Office Supplies,Stapler Set,,18.31,unparseable quantity
+ORD-12639,2025-08-21,Dominion Cafe,NC,Electronics,USB-C Dock,,93.25,unparseable quantity
+ORD-12468,,James River Tours,MD,Safety Equipment,First Aid Kit,5.0,44.21,unparseable or missing date
+ORD-11135,2026-04-20,Gull Point Marina,MD,Office Supplies,Whiteboard,-1.0,67.95,negative quantity (possible return) - needs human review
+ORD-10920,2026-02-20,Cardinal Pest Control,NC,Electronics,Label Printer,-2.0,140.83,negative quantity (possible return) - needs human review
+ORD-12108,,Salem Lanes Bowling,,Food & Beverage,Snack Variety Box,4.0,34.43,unparseable or missing date
+ORD-10446,,Chesapeake Motors,SC,Safety Equipment,First Aid Kit,4.0,45.25,unparseable or missing date
+ORD-14333,2026-04-09,First Colony Realty,MD,Office Supplies,Ink Cartridge,,31.74,unparseable quantity
