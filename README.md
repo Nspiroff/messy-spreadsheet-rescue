@@ -2,6 +2,8 @@
 
 **Your spreadsheet is a mess. This is what getting it fixed looks like.**
 
+### ▶ [Try the live dashboard](https://messy-spreadsheet-rescue-wbinarhcj8oesgrtplgtzu.streamlit.app/) — no install, no sign-up
+
 ![Before and after](assets/before_after.png)
 
 This is a complete, working demo of a data-rescue job: **5,150 rows** of
