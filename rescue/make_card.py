@@ -53,34 +53,44 @@ def draw_panel(ax, title, color, rows):
                     family="monospace")
 
 
-def main() -> None:
-    _, _, log = rescue(ROOT / "data" / "messy_sales.csv")
-
-    fig = plt.figure(figsize=(12.8, 6.4), dpi=100)
+def render(out_name: str, figsize, title_y, sub_y, panel_bottom, panel_h,
+           big_y, stats_y, log) -> None:
+    fig = plt.figure(figsize=figsize, dpi=100)
     fig.patch.set_facecolor(BG)
 
-    fig.text(0.5, 0.945, "Messy Spreadsheet Rescue", color=INK, fontsize=27,
+    fig.text(0.5, title_y, "Messy Spreadsheet Rescue", color=INK, fontsize=27,
              fontweight="bold", ha="center", va="top")
-    fig.text(0.5, 0.855, "the same spreadsheet — before and after one cleaning pipeline",
+    fig.text(0.5, sub_y, "the same spreadsheet — before and after one cleaning pipeline",
              color=DIM, fontsize=12.5, ha="center")
 
-    ax_b = fig.add_axes([0.035, 0.24, 0.45, 0.54])
-    ax_a = fig.add_axes([0.515, 0.24, 0.45, 0.54])
+    ax_b = fig.add_axes([0.035, panel_bottom, 0.45, panel_h])
+    ax_a = fig.add_axes([0.515, panel_bottom, 0.45, panel_h])
     draw_panel(ax_b, "BEFORE — what the client sends", RED, BEFORE_ROWS)
     draw_panel(ax_a, "AFTER — what they get back", GREEN, AFTER_ROWS)
 
-    fig.text(0.5, 0.145, f"${log.revenue_recovered:,.0f} revenue recovered",
+    fig.text(0.5, big_y, f"${log.revenue_recovered:,.0f} revenue recovered",
              color=GOLD, fontsize=21, fontweight="bold", ha="center")
-    fig.text(0.5, 0.065,
+    fig.text(0.5, stats_y,
              f"{log.rows_in:,} rows in  ·  {log.duplicate_rows_removed:,} duplicates removed  ·  "
              f"{log.customer_variants_merged:,} customer variants merged  ·  "
              f"{log.rows_quarantined:,} rows flagged for human review",
              color=DIM, fontsize=11.5, ha="center")
 
-    out = ROOT / "assets" / "before_after.png"
+    out = ROOT / "assets" / out_name
     out.parent.mkdir(exist_ok=True)
     fig.savefig(out, facecolor=BG)
+    plt.close(fig)
     print(f"wrote {out}")
+
+
+def main() -> None:
+    _, _, log = rescue(ROOT / "data" / "messy_sales.csv")
+    # 2:1 — GitHub social card / README hero
+    render("before_after.png", (12.8, 6.4), 0.945, 0.855, 0.24, 0.54,
+           0.145, 0.065, log)
+    # 4:3 — Upwork Project Catalog gallery (min 1000x750)
+    render("upwork_card_4x3.png", (12.8, 9.6), 0.962, 0.900, 0.34, 0.46,
+           0.20, 0.12, log)
 
 
 if __name__ == "__main__":
